@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+
+# Terraform
+.terraform*
+terraform.tfstate*
+tfplan
+
+# Terragrunt
+.terragrunt-cache*
+*.terragrunt-cache*
